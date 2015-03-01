@@ -1,0 +1,7 @@
+A1 - it compared working code with one which was not working
+A2 - it gives a restore point
+A3 - pros a version is logically complete cons commit points can be two big
+A5 - GIT is version control for code, google docs is used for documents
+A6 - git log, git diff file1 file2
+A7 - option to revert
+A8 - version control
