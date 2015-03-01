@@ -1,0 +1,2 @@
+1) it initializes a repository. so that you can add commit later
+2) it has files you want to commit
