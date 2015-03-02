@@ -1,3 +1,5 @@
 1) it initializes a repository. so that you can add commit later
 2) it has files you want to commit
-3)by comparing staging with commit
+3) by comparing staging with commit
+4) when you want to have experimental version
+5) it shows branches and commit
