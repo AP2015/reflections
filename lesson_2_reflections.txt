@@ -3,3 +3,4 @@
 3) by comparing staging with commit
 4) when you want to have experimental version
 5) it shows branches and commit
+6) it merges two branch
